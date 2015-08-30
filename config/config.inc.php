@@ -6,7 +6,7 @@ return array_merge(array(
 	'DB_TYPE'       => 'mysql',       // 数据库类型
 
 	'DB_HOST'       => 'localhost',    // 数据库服务器地址
-	'DB_NAME'       => 'thinksns_4_1_170',    // 数据库名
+	'DB_NAME'       => 'thinksns',    // 数据库名
 	'DB_USER'       => 'root',// 数据库用户名
 	'DB_PWD'        => '1234',// 数据库密码
 
